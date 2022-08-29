@@ -112,4 +112,47 @@ table, th, td {
   .customer-background-para{
     background-color: #fef1ff;
   }
-  
+
+  .get-started-background{
+    background-color:#802ebf;
+    color: white;
+    border-radius: 25px;
+    padding: 50px;
+  }
+
+  .get-started-para1{
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 17px;
+  }
+
+  .get-started-button{
+    background-color: white;
+    color: purple;
+    margin-left: 144px;
+    margin-top: 55px;
+    outline: none;
+    border-radius: 50px;
+    padding-left:25px;
+    padding-right:25px;
+  }
+
+.footer-header{
+  color: white;
+}
+
+.footer-para{
+  color:#a2a1a2;
+}
+
+.footer-social{
+  color:purple;
+}
+
+#footer{
+  background-color: black !important;
+}
+
+.footer-touch{
+  color:purple;
+}
