@@ -1,0 +1,115 @@
+/* navbar */
+
+.nav-margin{
+    margin-left: 50px;
+}
+
+.fa-biohazard{
+    color:purple;
+    font-size: 30px;
+}
+.navbar-brand{
+    font-weight: 600;
+    font-size: 26px;
+}
+
+.navbar-home{
+    color: purple !important;
+    font-weight: 500;
+}
+
+.navbar-button{
+    color: white;
+    border-radius: 30px;
+    background-color: purple;
+}
+
+
+table, th, td {
+    border:1px solid black;
+  }
+
+
+  .content-margined{
+    margin-top:136px;
+    margin-bottom: 136px;
+  }
+
+  .content-spanned{
+    color: purple;
+  }
+
+  #content-footer{
+    background-color: black;
+  }
+
+  .content-white{
+    filter: brightness(0) invert(1);
+  }
+
+  .content-image-header{
+    font-size: 56px;
+    padding-bottom: 10px;
+    font-weight: 700;
+
+  }
+
+  .content-image-para{
+    color: #878889;
+  }
+
+  .main-content-header{
+    font-weight: 700;
+  }
+
+  .main-content-anchor{
+    color:purple;
+    text-decoration: none;
+  }
+
+  .main-content-margined{
+    margin-top: 67px;
+    margin-bottom: 67px;
+  }
+  
+  .service-spanned{
+    color: purple;
+    font-weight: 700;
+  }
+
+  .service-header{
+    font-weight: 700;
+  }
+
+  .service-para{
+    color: #878889;
+  }
+
+  .service-margined{
+    margin-bottom: 100px;
+  }
+
+  .circle-image{
+    border-radius: 50%;
+   
+    margin-top: 44px;
+  }
+
+  .customer-background{
+    background-color:#fbf9f6 ;
+    border-radius: 10px;
+    width: 454px;
+  }
+
+  .review-padded{
+    padding:0px 80px;
+  }
+
+  .review-para{
+    color:purple;
+  }
+
+  .customer-background-para{
+    background-color: #fef1ff;
+  }
+  
